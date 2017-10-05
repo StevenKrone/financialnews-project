@@ -1,7 +1,9 @@
-.worldmarketsrow{
+.searchresult{
 
-    font-size: 2000px;
-
+    
+    width: 100%;
+    float: left;
+    padding: 15px;
 
 }
 
@@ -23,6 +25,8 @@
 }
 
 .description{
-
+    overflow-wrap: auto;
+    width:60%;
     
+
 }
